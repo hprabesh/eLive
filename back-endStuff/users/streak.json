@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "_id": "5eef7fc1e243c9bb52919264",
+      "currentDate": "6-21-2020",
+      "__v": 0,
+      "low": 1,
+      "medium": 1,
+      "high": 0
+    },
+    {
+      "_id": "5ef69d67433b1446b5bafa1e",
+      "currentDate": "6-26-2020",
+      "__v": 0,
+      "high": 6,
+      "low": 1,
+      "medium": 1
+    },
+    {
+      "_id": "5ef6adb54459fa1461d4f154",
+      "currentDate": "6-19-2020",
+      "__v": 0,
+      "high": 2,
+      "low": 1,
+      "medium": 1
+    }
+  ]
+]
