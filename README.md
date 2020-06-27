@@ -1,4 +1,4 @@
-# toDoListApp
+# eLive
 A Web App using React, Express, MongoDB using basic RESTful API
 
 What does this app do?
