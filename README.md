@@ -16,3 +16,6 @@ To Run Back-END>
                 
 Afterwards, you can add the task and monitor your performance.
 <img src="https://github.com/hprabesh/eLive/blob/master/Capture.JPG" alt="Project Image">
+
+<h3>I am still working on debugging and adding new features</h3>
+<h4>So, feel free to ping me at <a href="mailto:humagain.prabesh@outlook.com">Mail me here</a></h4>
