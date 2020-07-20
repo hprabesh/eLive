@@ -1,13 +1,26 @@
 # eLive
-A Web App using React, Express, MongoDB using basic RESTful API
+A performance level monitoring web application – frontend written using React and Material-UI, backend written using Express, Node.js and MongoDB; used Azure DevOps to create CI/CD pipeline for the frontend (and soon to release it for production) and Azure Web App Service for the backend 
 
 What does this app do?
 
-It allows you to create your todo list, mark it and sort based on the date, complete or delete it. All those data are stored in MongoDB Atlas, so you will need to confgure /backend/.env file before actually using it
+It allows you to create your todo list, mark it and sort based on the date that you completed them. All those data are stored in MongoDB Atlas, so to try it, you will need to confgure /backend/.env file before using it
 
-THe main feature of this app is, you can measure your daily performance level based on the number of tasks you have completed. 
+Current Features:
+1. Record the daily performance level based on the number of tasks you have completed 
 
-To use this app, clone the file into your repository.
+Upcoming Features:
+1. Able to login with high encryption both end-to-end (might as well use windows hello using the idea similar to online payment)
+2. All the tasks list will be encrypted (probably use SHA-256 encryption) to prevent anyone (besides you) from reading your pending and completed tasks.
+3. Will be adding new features to make your life easier
+
+<p>The source code will be <strong> Free</strong><br/><strong>Except</strong>:Database, Schemas and Other Security Credentials 
+
+
+<strong>Note</strong>:
+
+The gist of how my app will work is inside the repository, so feel free to play with it. 
+
+So, to use this app, clone it and follow the steps mentioned below.
 
 To Run Front-END>
                 navigate inside front-end and run npm install and then npm start to run frontend server
@@ -17,5 +30,5 @@ To Run Back-END>
 Afterwards, you can add the task and monitor your performance.
 <img src="https://github.com/hprabesh/eLive/blob/master/Capture.JPG" alt="Project Image">
 
-<h3>I am still debugging and adding new features to it, and soon be releasing a full complete app.</h3>
-<h4>So, feel free to ping me at <a href="mailto:humagain.prabesh@outlook.com">Prabesh Humagain</a> if you need anything else</h4>
+<h3>This is just the rough draft of my application. The frontend has been deployed on the link: <a href="https://prabeshapp.azurewebsites.net///" target="_blank">Click here</a></h3>
+<h4>I am just learning to build MERN application, so feel free to ping me at <a href="mailto:humagain.prabesh@outlook.com">Prabesh Humagain</a> for suggestions. <br/>Thank you so much</h4>
