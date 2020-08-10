@@ -32,3 +32,6 @@ Afterwards, you can add the task and monitor your performance.
 
 <h3>This is just the rough draft of my application. The frontend has been deployed on the link: <a href="https://prabeshapp.azurewebsites.net///" target="_blank">Click here</a></h3>
 <h4>I am just learning to build MERN application, so feel free to ping me at <a href="mailto:humagain.prabesh@outlook.com">Prabesh Humagain</a> for suggestions. <br/>Thank you so much</h4>
+
+<Strong>Updates:</strong><p>Currently, I am working on optimizing the backend server and the frontend UI, while also adding new features, so it might take some time before I release this app</p>
+<p> Thank you for awaiting, and also the site has been disabled for a while. </p>
