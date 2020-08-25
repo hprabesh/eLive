@@ -1,4 +1,4 @@
-# eLive
+# eLive (pending)
 A performance level monitoring web application – frontend written using React and Material-UI, backend written using Express, Node.js and MongoDB; used Azure DevOps to create CI/CD pipeline for the frontend (and soon to release it for production) and Azure Web App Service for the backend 
 
 What does this app do?
