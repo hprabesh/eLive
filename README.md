@@ -11,8 +11,7 @@ Current Features:
 
 Upcoming Features:
 1. Able to login with high encryption both end-to-end (might as well use windows hello using the idea similar to online payment)
-2. All the tasks list will be encrypted (probably use SHA-256 encryption) to prevent anyone (besides you) from reading your pending and completed tasks.
-3. Will be adding new features to make your life easier
+2. Will be adding new features to make your life easier
 
 <p>The source code will be <strong> Free</strong><br/><strong>Except</strong>:Database, Schemas and Other Security Credentials 
 
